@@ -1,5 +1,5 @@
-lastone2 ns =
+last2 ns =
     ns !! (length ns - 1)
 
-lastone3 ns = 
+last3 ns = 
     head (reverse ns)
